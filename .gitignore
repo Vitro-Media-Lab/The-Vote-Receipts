@@ -1,0 +1,30 @@
+# API keys
+.env
+
+# Python pipeline (not deployed)
+*.py
+requirements.txt
+__pycache__/
+*.pyc
+.venv/
+
+# Local data cache
+.cache/
+
+# Claude Code
+.claude/
+
+# Next.js / Node
+frontend/node_modules/
+frontend/out/
+frontend/.next/
+frontend/tsconfig.tsbuildinfo
+
+# Next.js scaffolding
+frontend/CLAUDE.md
+frontend/AGENTS.md
+frontend/README.md
+
+# OS
+.DS_Store
+Thumbs.db

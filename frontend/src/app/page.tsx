@@ -105,9 +105,6 @@ export default function Home() {
         <div className="mt-4 text-neutral-500">
           &copy; 2026 The Vote Receipts. All rights reserved.
         </div>
-        <div className="text-neutral-500">
-          The Vote Receipts is owned and operated by Vitro Media Lab, LLC.
-        </div>
       </footer>
 
       <InfoBubble />

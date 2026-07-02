@@ -31,14 +31,6 @@ export default function InfoBubble() {
             and votes does not imply causation. This is a transparency tool,
             not an accusation.
           </p>
-          <a
-            href="https://buy.stripe.com/00weVe3fXfbu9Ru4wRgQE00"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="block mt-3 py-2 text-center text-xs font-bold uppercase tracking-wider border border-neutral-600 text-neutral-300 hover:bg-white hover:text-black hover:border-white transition-colors"
-          >
-            [ FUND THE AUDIT, NOT THE POLITICIANS ]
-          </a>
         </div>
       )}
       <button

@@ -93,6 +93,18 @@ export default function Home() {
       {/* Receipt stack */}
       <Leaderboard bills={data.leaderboard} />
 
+      {/* Fund the Audit */}
+      <div className="max-w-md mx-auto px-4 mb-8">
+        <a
+          href="https://buy.stripe.com/00weVe3fXfbu9Ru4wRgQE00"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="block py-3 text-center text-xs font-bold uppercase tracking-wider border border-neutral-600 text-neutral-300 hover:bg-white hover:text-black hover:border-white transition-colors"
+        >
+          [ FUND THE AUDIT, NOT THE POLITICIANS ]
+        </a>
+      </div>
+
       {/* Footer */}
       <footer className="text-center py-8 text-xs text-neutral-600 border-t border-neutral-800 space-y-1">
         <div>

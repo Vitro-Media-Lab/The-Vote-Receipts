@@ -101,7 +101,7 @@ export default function Leaderboard({ bills }: { bills: BillReceipt[] }) {
   }
 
   return (
-    <section className="px-4 pb-20">
+    <section className="px-4 pb-8">
       <div ref={topRef} className="mb-8">
         <SearchBar
           bills={bills}
